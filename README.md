@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">A passionate full stack development learner, aim to master both front-end and back-end technologies to create seamless, end-to-end web applications.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 
 - 🌱 I’m currently learning **Fullstack Development**
