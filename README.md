@@ -1,3 +1,4 @@
+![logo](https://github.com/Balaji1441/Balaji1441/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">A passionate full stack development learner, aim to master both front-end and back-end technologies to create seamless, end-to-end web applications.</h3>
 
